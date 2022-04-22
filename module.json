@@ -1,0 +1,21 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Vanguardian",
+    "author": "TeraProxy",
+    "description": "A tera-proxy module that automatically finishes Vanguard Initiative quests on completion and gives you a report about how many quests you already finished today.",
+    "version": "1.3.0",
+    "donationUrl": "",
+    "options": {
+        "niceName": "VG",
+        "guiName": "Vanguardian",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": [""],
+    "supportUrl": "",
+    "conflicts": ["auto-vanguard"],
+    "dependencies": {
+        "tera-game-state": ""
+    }
+}

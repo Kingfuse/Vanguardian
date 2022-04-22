@@ -1,0 +1,19 @@
+{
+	"files": {
+		"LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+		"README.md": "9e106d8518b8c113b55f8c3e5b6a72fd2e1b8e1afa6d83de66df62e586b69668",
+		"config.json": {
+			"overwrite": false,
+			"hash": "893bed4e4229881fc64d478076a039e502a1bbb0e4079ebd3fba5a9e33f43e03"
+		},
+		"index.js": "46fff6b0a3add9dfb7a5cf3ef43df0b058729a1940e39976f72873eca1be59bf",
+		"module.json": "180aa275be108d3c5b47f948e72b609f14b0398187d52b6521645682e771df9a",
+		"settings_migrator.js": "ec09912b2cdcba7305fc735a5e96a459e9d345e89f40acf411b105cf14d93631"
+	},
+	"defs": {
+		"C_COMPLETE_DAILY_EVENT": 1,
+		"C_COMPLETE_EXTRA_EVENT": 1,
+		"S_AVAILABLE_EVENT_MATCHING_LIST": 1,
+		"S_COMPLETE_EVENT_MATCHING_QUEST": 1
+	}
+}
